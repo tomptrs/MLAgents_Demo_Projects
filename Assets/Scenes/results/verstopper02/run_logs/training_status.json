@@ -1,0 +1,47 @@
+{
+    "Verstoppertje": {
+        "checkpoints": [
+            {
+                "steps": 499943,
+                "file_path": "results\\verstopper02\\Verstoppertje\\Verstoppertje-499943.onnx",
+                "reward": 1.1914399832487106,
+                "creation_time": 1667212178.6154149,
+                "auxillary_file_paths": [
+                    "results\\verstopper02\\Verstoppertje\\Verstoppertje-499943.pt"
+                ]
+            },
+            {
+                "steps": 999986,
+                "file_path": "results\\verstopper02\\Verstoppertje\\Verstoppertje-999986.onnx",
+                "reward": 1.9610285786341648,
+                "creation_time": 1667216719.1265178,
+                "auxillary_file_paths": [
+                    "results\\verstopper02\\Verstoppertje\\Verstoppertje-999986.pt"
+                ]
+            },
+            {
+                "steps": 1001902,
+                "file_path": "results\\verstopper02\\Verstoppertje\\Verstoppertje-1001902.onnx",
+                "reward": 1.9714954576709054,
+                "creation_time": 1667216748.4459813,
+                "auxillary_file_paths": [
+                    "results\\verstopper02\\Verstoppertje\\Verstoppertje-1001902.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1001902,
+            "file_path": "results\\verstopper02\\Verstoppertje.onnx",
+            "reward": 1.9714954576709054,
+            "creation_time": 1667216748.4459813,
+            "auxillary_file_paths": [
+                "results\\verstopper02\\Verstoppertje\\Verstoppertje-1001902.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

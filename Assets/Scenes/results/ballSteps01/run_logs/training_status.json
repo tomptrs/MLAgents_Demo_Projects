@@ -1,0 +1,29 @@
+{
+    "3DBallSteps": {
+        "checkpoints": [
+            {
+                "steps": 25889,
+                "file_path": "results\\ballSteps01\\3DBallSteps\\3DBallSteps-25889.onnx",
+                "reward": null,
+                "creation_time": 1666522074.306904,
+                "auxillary_file_paths": [
+                    "results\\ballSteps01\\3DBallSteps\\3DBallSteps-25889.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 25889,
+            "file_path": "results\\ballSteps01\\3DBallSteps.onnx",
+            "reward": null,
+            "creation_time": 1666522074.306904,
+            "auxillary_file_paths": [
+                "results\\ballSteps01\\3DBallSteps\\3DBallSteps-25889.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

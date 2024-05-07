@@ -1,0 +1,47 @@
+{
+    "PushBlock": {
+        "checkpoints": [
+            {
+                "steps": 240044,
+                "file_path": "results\\pb01\\PushBlock\\PushBlock-240044.onnx",
+                "reward": 3.345700180158019,
+                "creation_time": 1666550843.8641467,
+                "auxillary_file_paths": [
+                    "results\\pb01\\PushBlock\\PushBlock-240044.pt"
+                ]
+            },
+            {
+                "steps": 499983,
+                "file_path": "results\\pb01\\PushBlock\\PushBlock-499983.onnx",
+                "reward": null,
+                "creation_time": 1666554126.7189007,
+                "auxillary_file_paths": [
+                    "results\\pb01\\PushBlock\\PushBlock-499983.pt"
+                ]
+            },
+            {
+                "steps": 784075,
+                "file_path": "results\\pb01\\PushBlock\\PushBlock-784075.onnx",
+                "reward": 3.4645999390631914,
+                "creation_time": 1666557653.108608,
+                "auxillary_file_paths": [
+                    "results\\pb01\\PushBlock\\PushBlock-784075.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 784075,
+            "file_path": "results\\pb01\\PushBlock.onnx",
+            "reward": 3.4645999390631914,
+            "creation_time": 1666557653.108608,
+            "auxillary_file_paths": [
+                "results\\pb01\\PushBlock\\PushBlock-784075.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

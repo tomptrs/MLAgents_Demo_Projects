@@ -1,0 +1,29 @@
+{
+    "Verstoppertje": {
+        "checkpoints": [
+            {
+                "steps": 127679,
+                "file_path": "results\\verstopper01\\Verstoppertje\\Verstoppertje-127679.onnx",
+                "reward": 1.93085997402668,
+                "creation_time": 1667207002.601206,
+                "auxillary_file_paths": [
+                    "results\\verstopper01\\Verstoppertje\\Verstoppertje-127679.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 127679,
+            "file_path": "results\\verstopper01\\Verstoppertje.onnx",
+            "reward": 1.93085997402668,
+            "creation_time": 1667207002.601206,
+            "auxillary_file_paths": [
+                "results\\verstopper01\\Verstoppertje\\Verstoppertje-127679.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

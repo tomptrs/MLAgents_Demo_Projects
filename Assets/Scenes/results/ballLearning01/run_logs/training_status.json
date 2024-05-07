@@ -1,0 +1,29 @@
+{
+    "3DBallLearningRate": {
+        "checkpoints": [
+            {
+                "steps": 74132,
+                "file_path": "results\\ballLearning01\\3DBallLearningRate\\3DBallLearningRate-74132.onnx",
+                "reward": 44.30000696182251,
+                "creation_time": 1666525075.7544003,
+                "auxillary_file_paths": [
+                    "results\\ballLearning01\\3DBallLearningRate\\3DBallLearningRate-74132.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 74132,
+            "file_path": "results\\ballLearning01\\3DBallLearningRate.onnx",
+            "reward": 44.30000696182251,
+            "creation_time": 1666525075.7544003,
+            "auxillary_file_paths": [
+                "results\\ballLearning01\\3DBallLearningRate\\3DBallLearningRate-74132.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
